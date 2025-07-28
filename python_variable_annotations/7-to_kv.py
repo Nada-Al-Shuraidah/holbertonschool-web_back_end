@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Module that contains a function to return a tuple of a string and the square of a number."""
+"""Module that contains a function to return a tuple of a string
+and the square of a number."""
 
 from typing import Union, Tuple
 
