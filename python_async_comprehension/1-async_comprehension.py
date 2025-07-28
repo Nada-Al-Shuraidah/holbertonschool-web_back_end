@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Coroutine that collects 10 random numbers from async_generator using async comprehension"""
+"""Coroutine that collects 10 random numbers from
+async_generator using async comprehension"""
 
 from typing import List
 
